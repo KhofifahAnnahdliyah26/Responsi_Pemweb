@@ -1,0 +1,47 @@
+body {
+	background-image:url('hotelbatusuli.jpg');
+	font-family: '', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.judul {
+	background-color:aqua;
+	padding: 5px;
+	text-align: center;
+    color : blue;
+
+}
+
+a {
+	text-decoration: none;
+	color: WHITE;
+}
+a:hover {
+	text-decoration: underline;
+	color: WHITE;
+}
+
+button {
+	border: 0px;
+	padding: 5px;
+}
+button:hover {
+	background-color: #ccc;
+	cursor: pointer;
+}
+
+.table{
+	border-style: solid;
+  border-color:white;
+	border-collapse: collapse;
+	width: 60%;
+	background-color:white;
+
+}
+.table tr th, .table tr td {
+	padding: 5px;
+	text-align: center;
+		color: black;
+		border: 1px solid black;
+	  }
+	}
+
